@@ -1,0 +1,132 @@
+
+---Downloaded files---
+The import files for: ReDokanNew were successfully downloaded!
+Initial max execution time = 3600
+Files info:
+Site URL = http://eshopper.test
+Data file = /Users/hamad/WebServer/eshopper/wp-content/uploads/2020/04/demo-content-import-file_2020-04-22__18-13-19.xml
+Widget file = /Users/hamad/WebServer/eshopper/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-22__18-13-19.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Area : 
+
+ReHub: Ajax Tabs - No Title - Imported
+ReHub: Sticky on scroll - No Title - Imported
+
+Footer 1 : 
+
+Text - About Rehub - Imported
+
+Footer 2 : 
+
+Text - No Title - Imported
+
+Footer 3 : 
+
+Text - Sign Up for Weekly Newsletter - Imported
+Image - No Title - Imported
+
+Woocommerce shop sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Memory - Imported
+Filter Products by Attribute - Display Type - Imported
+Filter Products by Attribute - Operation System - Imported
+Filter Products by Rating - Average rating - Imported
+
+Woocommerce product sidebar : 
+
+ReHub: Latest Woo Comparisons - Latest Comparisons - Imported
+ReHub: Top Offers/Products - Top offers - Imported
+
+
+
+---pt-ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------Menu was assigned-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------HomePage was assigned-------
